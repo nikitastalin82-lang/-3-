@@ -28,6 +28,8 @@ move_left={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":65)]
 move_right={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":68)]}
 jump={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":32)]}
 run={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":4194325)]}
+climb={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":69)]}
+elbow={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":70)]}
 
 [importer_defaults]
 

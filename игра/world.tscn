@@ -48,7 +48,9 @@ shape = SubResource("BoxShape3D_jdy72")
 script = ExtResource("2_player")
 
 [node name="animation" parent="Player" unique_id=1439371528 instance=ExtResource("1_model")]
+position = Vector3(0, 1, 0)
 scale = Vector3(100, 100, 100)
+rotation = Vector3(-1.5707963, 0, 0)
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="Player" unique_id=284287613]
 position = Vector3(0, 0.9, 0)
